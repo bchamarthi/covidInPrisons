@@ -1,2 +1,2 @@
 # covidinprisons
-Data Science for Social Good Final Project
+data science project analyzing the impact that COVID had on inmates across correctional facilities in the US.
